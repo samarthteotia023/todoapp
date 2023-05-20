@@ -1,0 +1,66 @@
+.box{
+   
+   
+    display: flex;
+    flex-direction: row;
+    color: cadetblue;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.show{
+ 
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    
+
+}
+.sho{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 40vw;
+    border-radius: 15px;
+    background-color: rgb(237, 236, 154);
+   
+    
+
+}
+.sho h1{
+    margin: 12px;
+    color: rgb(62, 62, 63);
+    
+}
+.sho svg{
+    margin: 12px;
+}
+#input{
+    font-size: 1.5rem;
+    border-radius: 3px;
+    width: 14rem;
+    height: 2rem;
+    text-align: center;
+    color: rgb(99, 99, 163);
+    background-color: aliceblue;
+    border: 1.3px solid rgb(79, 77, 77);
+}
+#submit{
+    font-size: 1.5rem;
+    border-radius: 3px;
+    color: rgb(100, 99, 96);
+    background-color: rgb(181, 210, 234);
+    height: 2rem;
+    margin: 10px;
+    border: 1.5px solid rgb(94, 121, 179);
+  
+}
+#head{
+    color: cadetblue;
+    text-align: center;
+}
